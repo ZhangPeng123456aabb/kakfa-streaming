@@ -13,6 +13,7 @@ class KafkaLogApplicationTests {
         System.out.println("I'm suns");
         System.out.println("aaaaaaaaaaa");
         System.out.println("cccccccccccc");
+        System.out.println("ddddddddddddd");
     }
 
 }
