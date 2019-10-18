@@ -8,6 +8,7 @@ class KafkaLogApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println();
     }
 
 }
