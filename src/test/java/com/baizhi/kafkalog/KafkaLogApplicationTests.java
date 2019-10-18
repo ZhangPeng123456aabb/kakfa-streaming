@@ -10,6 +10,7 @@ class KafkaLogApplicationTests {
     void contextLoads() {
         System.out.println();
         System.out.println("Zhang Peng");
+        System.out.println("I'm suns");
     }
 
 }
