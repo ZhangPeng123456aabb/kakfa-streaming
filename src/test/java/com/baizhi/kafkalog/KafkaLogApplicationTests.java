@@ -9,6 +9,7 @@ class KafkaLogApplicationTests {
     @Test
     void contextLoads() {
         System.out.println();
+        System.out.println("Zhang Peng");
     }
 
 }
